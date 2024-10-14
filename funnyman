@@ -1,1 +1,19 @@
 <!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width,initial-scale=1">
+		<title>Jump Freddy</title>
+		<style>
+			html {
+				background: url("Secret.png") center no-repeat fixed black;
+			}
+			html:hover {
+				background: url("morethansecret.png") center no-repeat fixed black;
+			}
+		</style>
+	</head>
+	<body>
+		
+	</body>
+</html>
